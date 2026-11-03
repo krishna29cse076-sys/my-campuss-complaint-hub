@@ -1,0 +1,88 @@
+[
+  {
+    "id": "C01",
+    "title": "Wi-Fi connection drops repeatedly in Nelson Hostel",
+    "category": "Wi-Fi",
+    "description": "Students report packet loss and frequent disconnections on the 2nd floor corridor router of Nelson Hostel.",
+    "location": "Nelson Hostel, 2nd Floor Corridor",
+    "status": "Raised",
+    "hoursPending": 48,
+    "createdAt": "2026-11-01T06:37:33.148Z",
+    "updatedAt": "2026-11-01T06:37:33.148Z",
+    "studentName": "Alex Rivera",
+    "studentEmail": "alex.rivera@campus.edu",
+    "studentRoll": "CS-2023-042",
+    "imageUrl": "",
+    "urgencyScore": 4,
+    "categoryWeight": 2,
+    "assignedDepartment": "Network & IT Services",
+    "notes": [
+      "Reported 48 hours ago. Status: Raised."
+    ]
+  },
+  {
+    "id": "C02",
+    "title": "Hostel Block C washroom hot water geyser failure",
+    "category": "Hostel",
+    "description": "Hot water geyser in C-Wing 1st floor bathroom tripped with burning smell. Needs repair.",
+    "location": "Hostel Block C, 1st Floor Washroom",
+    "status": "In Progress",
+    "hoursPending": 8,
+    "createdAt": "2026-11-02T22:37:33.148Z",
+    "updatedAt": "2026-11-03T04:37:33.148Z",
+    "studentName": "Priya Sharma",
+    "studentEmail": "priya.s@campus.edu",
+    "studentRoll": "EE-2024-118",
+    "imageUrl": "",
+    "urgencyScore": 2,
+    "categoryWeight": 2,
+    "assignedDepartment": "Hostel Maintenance",
+    "notes": [
+      "Assigned to plumbing technician 2 hours ago."
+    ]
+  },
+  {
+    "id": "C03",
+    "title": "Classroom LH-201 ceiling projector flickering and shutting down",
+    "category": "Classroom",
+    "description": "Ceiling projector lamp warning indicator blinks amber and display shuts off during lectures.",
+    "location": "Main Academic Block, LH-201",
+    "status": "Raised",
+    "hoursPending": 72,
+    "createdAt": "2026-10-31T06:37:33.148Z",
+    "updatedAt": "2026-10-31T06:37:33.148Z",
+    "studentName": "David Chen",
+    "studentEmail": "david.c@campus.edu",
+    "studentRoll": "ME-2022-089",
+    "imageUrl": "",
+    "urgencyScore": 4,
+    "categoryWeight": 1,
+    "assignedDepartment": "AV & Classroom Media",
+    "notes": [
+      "Pending for 72 hours. Ranks above C01 due to older age tie-breaker."
+    ]
+  },
+  {
+    "id": "C04",
+    "title": "Chemistry Laboratory 104 fume hood exhaust motor repair",
+    "category": "Laboratory",
+    "description": "Fume hood #3 exhaust motor failed in Organic Chemistry Lab 104. Ventilator filter replaced and tested.",
+    "location": "Science Complex, Chem Lab 104",
+    "status": "Resolved",
+    "hoursPending": 24,
+    "createdAt": "2026-11-02T06:37:33.148Z",
+    "updatedAt": "2026-11-03T05:37:33.148Z",
+    "resolvedAt": "2026-11-03T05:37:33.148Z",
+    "resolutionHours": 23,
+    "studentName": "Amina Yusuf",
+    "studentEmail": "amina.y@campus.edu",
+    "studentRoll": "CH-2023-015",
+    "imageUrl": "",
+    "urgencyScore": 4,
+    "categoryWeight": 3,
+    "assignedDepartment": "Lab Equipment Maintenance",
+    "notes": [
+      "Exhaust motor replaced and certified by campus technician."
+    ]
+  }
+]
